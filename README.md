@@ -1,1 +1,1 @@
-# mnipro2
+# mini_project
